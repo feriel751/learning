@@ -8,6 +8,10 @@ console.log("you are so stupid");
 console.log("affichier my work i have to go home ");
 
 
+
 console.log("affichier all my work ");
+let length = 16;                               // Number
+let lastName = "Johnson";                      // String
+let x = {firstName:"John", lastName:"Doe"};    // Object
 
 
